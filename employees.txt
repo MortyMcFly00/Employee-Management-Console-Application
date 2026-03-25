@@ -1,0 +1,6 @@
+1003,Rick Sanchez,444669999,4445556666,wubalubbadubdub@mail.com,500000.0
+1004,Matt McPhail,123450987,1234560987,matt@mail.com,45000.0
+1005,Marty McFly,888990000,8901238765,mcfly@mail.com,88000.0
+1006,Emmett Brown,888118888,8901237648,greatscott@mail.com,88000.0
+1007,Morty Smith,333442222,1246345432,ohjeese@mail.com,15000.0
+1008,Jim Hawkins,777117777,7651234567,greatness@mail.com,77777.0
